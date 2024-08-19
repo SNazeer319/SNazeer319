@@ -84,7 +84,21 @@
 # if (num1 > 10 or num2 > 10):
 #     print("num1 is greater than 10")
 
-#
+# 10 nested if statement
+
+# num1 = 11
+# num2 = 13
+# if num1 == 11 and  num2 == 14:
+#     # if num2 == 11:
+#         print("both numbers are equal")
+# else:
+#     print("num1 is equal to 10")
+
+
+# 11 lists
+# names = []
+# print(type(names))
+# names[0] = "John Doe"
 
 # 14 dictionaries
 
@@ -122,4 +136,6 @@
 # dic1["name"] = "ashutosh"
 # print(dic1)
 # print(dic2) 
+# print(dic2) 
+
 
